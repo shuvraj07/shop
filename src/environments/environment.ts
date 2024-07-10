@@ -4,11 +4,11 @@
 
 export const environment = {
     production: false,
-    apiHost: 'http://localhost',
-    apiPort: 3000,
-    shopApiPath: 'shop-api',
-    baseHref: '/',
-    tokenMethod: 'bearer',
+    apiHost: "https://readonlydemo.vendure.io",
+    apiPort: 443,
+    shopApiPath: "shop-api",
+    baseHref: "/",
+    tokenMethod: "bearer",
 };
 
 /*
